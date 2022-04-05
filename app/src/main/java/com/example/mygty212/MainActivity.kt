@@ -15,5 +15,6 @@ class MainActivity : AppCompatActivity() {
         println("experimental")
         println("newwaytocommit")
         println("first push")
+        print("second push")
     }
 }
