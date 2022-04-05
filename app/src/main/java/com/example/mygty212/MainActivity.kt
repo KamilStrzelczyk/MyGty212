@@ -14,5 +14,6 @@ class MainActivity : AppCompatActivity() {
         println("thirdcommits")
         println("experimental")
         println("newwaytocommit")
+        println("first push")
     }
 }
