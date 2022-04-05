@@ -13,5 +13,6 @@ class MainActivity : AppCompatActivity() {
         println("secondcommit")
         println("thirdcommits")
         println("experimental")
+        println("newwaytocommit")
     }
 }
