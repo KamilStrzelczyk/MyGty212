@@ -16,5 +16,6 @@ class MainActivity : AppCompatActivity() {
         println("newwaytocommit")
         println("first push")
         print("second push")
+        println("push after download")
     }
 }
